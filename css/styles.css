@@ -1,0 +1,201 @@
+body {
+  background: linear-gradient(130deg,#180A0A,#950101,#0F0E0E);
+  color: #DDDDDD;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-family: 'Crimson Text', serif;
+}
+
+h1 {
+  color: #DDDDDD;
+  font-family: 'Metal Mania', cursive;
+  font-size: 5.625rem;
+  line-height: 0.8;
+  margin: 30px auto 0 auto;
+  position: relative; top: 2rem;
+}
+
+h2 {
+  color: #DDDDDD;
+  font-family: 'Dosis', sans-serif;
+  font-weight: bold;
+  font-size: 3rem;
+  padding-bottom: 10px;
+}
+h3 {
+  color: #DDDDDD;
+  font-family: 'Dosis', sans-serif;
+  font-size: 1.6rem;
+  margin: 0 auto;
+}
+
+a {
+  color: #DDDDDD;
+}
+a:hover {
+  color: #950101;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: thick;
+  color: #DDDDDD;
+  height: 0;
+  width: 5%;
+  margin: 4rem auto;
+}
+
+p {
+  font-size: 1.16rem;
+  margin: 0 auto;
+  line-height: 2;
+}
+
+.dev {
+  text-decoration: underline;
+}
+
+.top-bats {
+  position: absolute; top: 20px; right: 50px;
+  width: 15%;
+}
+.bottom-bats {
+  position: absolute; left: 25px; top: 350px;
+  width: 20%;
+}
+.headbangin {
+  position: relative; top: 9px;
+  width: 18%;
+}
+.left-flame {
+  position: absolute; left: 20px;  top: 230px;
+  width: 15%;
+}
+.right-flame {
+  position: absolute; right: 20px; top: 230px;
+  width: 15%;
+
+}
+
+.fire {
+  margin: 0 auto;
+  position:fixed; left: 0; bottom: 0;
+  width: 100%;
+  opacity: 0.5;
+}
+
+.h2-programmer {
+  font-family: 'New Rocker', cursive;
+  font-size: 2.5rem;
+  position: relative; top: 2rem;
+}
+
+.top-container {
+  background: linear-gradient(to right,#230A0A,#0F0E0E);
+  padding-top: 100px;
+  position: relative; bottom: 30px;
+}
+
+.arthur {
+  /* margin-top: 25px; */
+  width: 200px;
+}
+
+.desc-photo {
+  color: #DDDDDD;
+  line-height: 2;
+  margin: 2.5rem auto;
+  width: 25%;
+}
+
+.middle-container {
+  margin: 0.5rem auto;
+}
+
+.my-skills {
+  color: #DDDDDD;
+}
+
+.music-skill {
+  color: #DDDDDD;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+.code-img {
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+  position: relative; bottom: 20px;
+  /* border-radius: 100%; */
+}
+
+.skill-img {
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+  position: relative;
+}
+
+.btn {
+  border-radius: 8px;
+  background: linear-gradient(130deg,#3D0000,#91091E);
+  color: #ffffff;
+  font-family: 'Dosis', sans-serif;
+  font-size: 32px;
+  line-height: 4;
+  text-decoration: none;
+  padding: 10px 20px 10px 20px;
+  border-style: ridge;
+}
+.btn:hover {
+  background: linear-gradient(-130deg, #7F8487,#180A0A);
+  color: #ffffff;
+  border-style: ridge;
+}
+
+.bottom-container {
+  background: linear-gradient(to right,#180A0A,#0F0E0E);
+  padding: 2rem 0 1.5rem;
+}
+
+.contact-me {
+  margin: 0 auto 2rem;
+}
+.contact-p {
+  margin: 60px auto 40px;
+  width: 50%;
+}
+
+.footer-link {
+  color: #EAF6F6;
+  font-family: 'Dosis', sans-serif;
+  font-size: 1.3rem;
+  font-weight: bolder;
+  text-decoration: none;
+  margin: 20px 30px;
+}
+
+.git {
+  width: 1.8rem;
+  position: relative; right: 5px; top:5px;
+
+}
+.insta {
+  width: 1.8rem;
+  position: relative; right: 5px; top:5px;
+}
+.linkedin {
+  width: 1.8rem;
+  position: relative; right: 5px; top:5px;
+}
+
+.copyright {
+  margin: 1.8rem auto 1rem;
+  color: #EAF6F6;
+  font-size: 0.75rem;
+}
